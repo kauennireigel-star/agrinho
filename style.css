@@ -1,0 +1,22 @@
+header{
+    background-color: darkgreen;
+    color: rgb(72, 210, 30);
+    max-width: 800;
+
+
+}
+main{
+    background-color: aquamarine;
+    color: bisque;
+
+
+
+
+}
+body{
+    background-color: black;
+}
+footer{
+    background-color: aqua;
+    color: aquamarine;
+}
